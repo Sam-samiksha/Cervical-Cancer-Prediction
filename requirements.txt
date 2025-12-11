@@ -1,0 +1,6 @@
+Basic Expected Libraries 
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
